@@ -21,7 +21,7 @@ docker run -d --name shorturl_app -p 8001:80 -v shorturl_data:/app/data stassl04
 ```
 
 
-## Справочник команд Docker (Шпаргалка)
+## Справочник команд Docker
 
 | Команда | Назначение | Примечание |
 | :--- | :--- | :--- |
